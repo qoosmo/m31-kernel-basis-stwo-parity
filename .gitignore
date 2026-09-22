@@ -1,0 +1,6 @@
+.DS_Store
+target/
+*.log
+*.tmp
+results/raw/
+paper/build/

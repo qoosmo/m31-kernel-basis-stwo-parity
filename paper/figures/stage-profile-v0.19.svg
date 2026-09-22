@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1180" height="650" viewBox="0 0 1180 650">
+<rect width="100%" height="100%" fill="white"/>
+<text x="590.0" y="32" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="24" font-weight="bold">v0.19 verified stage profile at N=2^20</text>
+<text x="590.0" y="56" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="13">The final two scalar levels dominate the remaining raw-NEON transform before v0.20 tail fusion.</text>
+<line x1="115" y1="510.00" x2="1135" y2="510.00" stroke="#dddddd" stroke-width="1"/>
+<text x="103" y="515.00" text-anchor="end" font-family="Helvetica,Arial,sans-serif" font-size="12">0.0</text>
+<line x1="115" y1="457.46" x2="1135" y2="457.46" stroke="#dddddd" stroke-width="1"/>
+<text x="103" y="462.46" text-anchor="end" font-family="Helvetica,Arial,sans-serif" font-size="12">0.5</text>
+<line x1="115" y1="404.92" x2="1135" y2="404.92" stroke="#dddddd" stroke-width="1"/>
+<text x="103" y="409.92" text-anchor="end" font-family="Helvetica,Arial,sans-serif" font-size="12">1.0</text>
+<line x1="115" y1="352.38" x2="1135" y2="352.38" stroke="#dddddd" stroke-width="1"/>
+<text x="103" y="357.38" text-anchor="end" font-family="Helvetica,Arial,sans-serif" font-size="12">1.5</text>
+<line x1="115" y1="299.84" x2="1135" y2="299.84" stroke="#dddddd" stroke-width="1"/>
+<text x="103" y="304.84" text-anchor="end" font-family="Helvetica,Arial,sans-serif" font-size="12">2.0</text>
+<line x1="115" y1="247.29" x2="1135" y2="247.29" stroke="#dddddd" stroke-width="1"/>
+<text x="103" y="252.29" text-anchor="end" font-family="Helvetica,Arial,sans-serif" font-size="12">2.5</text>
+<line x1="115" y1="194.75" x2="1135" y2="194.75" stroke="#dddddd" stroke-width="1"/>
+<text x="103" y="199.75" text-anchor="end" font-family="Helvetica,Arial,sans-serif" font-size="12">3.0</text>
+<line x1="115" y1="142.21" x2="1135" y2="142.21" stroke="#dddddd" stroke-width="1"/>
+<text x="103" y="147.21" text-anchor="end" font-family="Helvetica,Arial,sans-serif" font-size="12">3.5</text>
+<rect x="141.23" y="409.80" width="93.25714285714287" height="100.20" fill="#d9d9d9" stroke="black"/>
+<text x="187.86" y="400.80" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="12">0.954 ms</text>
+<text x="187.86" y="426.80" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="11">10.5%</text>
+<text x="187.86" y="540" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="11">R8_k19</text>
+<rect x="286.94" y="414.34" width="93.25714285714287" height="95.66" fill="#d9d9d9" stroke="black"/>
+<text x="333.57" y="405.34" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="12">0.910 ms</text>
+<text x="333.57" y="431.34" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="11">10.1%</text>
+<text x="333.57" y="540" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="11">R8_k16</text>
+<rect x="432.66" y="414.51" width="93.25714285714287" height="95.49" fill="#d9d9d9" stroke="black"/>
+<text x="479.29" y="405.51" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="12">0.909 ms</text>
+<text x="479.29" y="431.51" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="11">10.0%</text>
+<text x="479.29" y="540" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="11">R8_k13</text>
+<rect x="578.37" y="412.85" width="93.25714285714287" height="97.15" fill="#d9d9d9" stroke="black"/>
+<text x="625.00" y="403.85" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="12">0.924 ms</text>
+<text x="625.00" y="429.85" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="11">10.2%</text>
+<text x="625.00" y="540" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="11">R8_k10</text>
+<rect x="724.09" y="414.50" width="93.25714285714287" height="95.50" fill="#d9d9d9" stroke="black"/>
+<text x="770.71" y="405.50" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="12">0.909 ms</text>
+<text x="770.71" y="431.50" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="11">10.0%</text>
+<text x="770.71" y="540" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="11">R8_k7</text>
+<rect x="869.80" y="409.74" width="93.25714285714287" height="100.26" fill="#d9d9d9" stroke="black"/>
+<text x="916.43" y="400.74" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="12">0.954 ms</text>
+<text x="916.43" y="426.74" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="11">10.5%</text>
+<text x="916.43" y="540" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="11">R8_k4</text>
+<rect x="1015.51" y="143.90" width="93.25714285714287" height="366.10" fill="#d9d9d9" stroke="black"/>
+<text x="1062.14" y="134.90" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="12">3.484 ms</text>
+<text x="1062.14" y="160.90" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="11">38.5%</text>
+<text x="1062.14" y="540" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="11">TAIL_2L</text>
+<text transform="translate(26 294.00) rotate(-90)" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="14">Stage time (ms)</text>
+<text x="1135" y="638" text-anchor="end" font-family="Helvetica,Arial,sans-serif" font-size="9">source: stage-profile-v0.19-logN20.csv SHA-256 50ff6be15f58946119426b8eade012b456b8e0221cb6549caa99a2a5f5360427</text>
+</svg>

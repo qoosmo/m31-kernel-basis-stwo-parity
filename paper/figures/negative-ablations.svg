@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="610" viewBox="0 0 1080 610">
+<rect width="100%" height="100%" fill="white"/>
+<text x="540.0" y="32" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="24" font-weight="bold">Verified negative optimization branches at N=2^20</text>
+<text x="540.0" y="56" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="13">All three tested branches regressed relative to the nearby scalar/raw winner.</text>
+<line x1="105" y1="505.00" x2="1035" y2="505.00" stroke="#dddddd" stroke-width="1"/>
+<text x="93" y="510.00" text-anchor="end" font-family="Helvetica,Arial,sans-serif" font-size="12">1.0×</text>
+<line x1="105" y1="448.07" x2="1035" y2="448.07" stroke="#dddddd" stroke-width="1"/>
+<text x="93" y="453.07" text-anchor="end" font-family="Helvetica,Arial,sans-serif" font-size="12">1.1×</text>
+<line x1="105" y1="391.13" x2="1035" y2="391.13" stroke="#dddddd" stroke-width="1"/>
+<text x="93" y="396.13" text-anchor="end" font-family="Helvetica,Arial,sans-serif" font-size="12">1.2×</text>
+<line x1="105" y1="334.20" x2="1035" y2="334.20" stroke="#dddddd" stroke-width="1"/>
+<text x="93" y="339.20" text-anchor="end" font-family="Helvetica,Arial,sans-serif" font-size="12">1.3×</text>
+<line x1="105" y1="277.27" x2="1035" y2="277.27" stroke="#dddddd" stroke-width="1"/>
+<text x="93" y="282.27" text-anchor="end" font-family="Helvetica,Arial,sans-serif" font-size="12">1.4×</text>
+<line x1="105" y1="220.33" x2="1035" y2="220.33" stroke="#dddddd" stroke-width="1"/>
+<text x="93" y="225.33" text-anchor="end" font-family="Helvetica,Arial,sans-serif" font-size="12">1.5×</text>
+<line x1="105" y1="163.40" x2="1035" y2="163.40" stroke="#dddddd" stroke-width="1"/>
+<text x="93" y="168.40" text-anchor="end" font-family="Helvetica,Arial,sans-serif" font-size="12">1.6×</text>
+<line x1="105" y1="106.47" x2="1035" y2="106.47" stroke="#dddddd" stroke-width="1"/>
+<text x="93" y="111.47" text-anchor="end" font-family="Helvetica,Arial,sans-serif" font-size="12">1.7×</text>
+<rect x="185.00" y="173.01" width="150" height="331.99" fill="#d9d9d9" stroke="black"/>
+<text x="260.00" y="163.01" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="14" font-weight="bold">1.583×</text>
+<text x="260.00" y="533" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="13" font-weight="bold">v0.14</text>
+<text x="260.00" y="552" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="11">cache blocking</text>
+<rect x="495.00" y="203.58" width="150" height="301.42" fill="#d9d9d9" stroke="black"/>
+<text x="570.00" y="193.58" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="14" font-weight="bold">1.529×</text>
+<text x="570.00" y="533" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="13" font-weight="bold">v0.15</text>
+<text x="570.00" y="552" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="11">generic PackedM31</text>
+<rect x="805.00" y="188.62" width="150" height="316.38" fill="#d9d9d9" stroke="black"/>
+<text x="880.00" y="178.62" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="14" font-weight="bold">1.556×</text>
+<text x="880.00" y="533" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="13" font-weight="bold">v0.17</text>
+<text x="880.00" y="552" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="11">PackedM31 + exact twiddle</text>
+<line x1="105" y1="505.00" x2="1035" y2="505.00" stroke="black" stroke-width="2"/>
+<text transform="translate(26 291.50) rotate(-90)" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="14">Kernel / Stwo time ratio</text>
+<text x="1035" y="598" text-anchor="end" font-family="Helvetica,Arial,sans-serif" font-size="9">source: optimization-verified.csv SHA-256 b7adee0d10c1700fe1fbf578e6db5b36db5259f2c31512123edd7f376c1e4c44</text>
+</svg>

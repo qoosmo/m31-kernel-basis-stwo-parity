@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1320" height="650" viewBox="0 0 1320 650">
+<rect width="100%" height="100%" fill="white"/>
+<text x="660.0" y="32" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="24" font-weight="bold">Verified M31 affine-kernel optimization trajectory at N=2^20</text>
+<text x="660.0" y="56" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="13">Kernel/Stwo same-run ratio; lower is better. v0.12 begins a new native-codegen build regime.</text>
+<rect x="95" y="487.38" width="1185" height="11.75" fill="#eeeeee"/>
+<line x1="95" y1="493.25" x2="1280" y2="493.25" stroke="#777777" stroke-width="2"/>
+<text x="83" y="498.25" text-anchor="end" font-family="Helvetica,Arial,sans-serif" font-size="12">1.0×</text>
+<line x1="95" y1="434.50" x2="1280" y2="434.50" stroke="#dddddd" stroke-width="1"/>
+<text x="83" y="439.50" text-anchor="end" font-family="Helvetica,Arial,sans-serif" font-size="12">1.5×</text>
+<line x1="95" y1="375.75" x2="1280" y2="375.75" stroke="#dddddd" stroke-width="1"/>
+<text x="83" y="380.75" text-anchor="end" font-family="Helvetica,Arial,sans-serif" font-size="12">2.0×</text>
+<line x1="95" y1="317.00" x2="1280" y2="317.00" stroke="#dddddd" stroke-width="1"/>
+<text x="83" y="322.00" text-anchor="end" font-family="Helvetica,Arial,sans-serif" font-size="12">2.5×</text>
+<line x1="95" y1="258.25" x2="1280" y2="258.25" stroke="#dddddd" stroke-width="1"/>
+<text x="83" y="263.25" text-anchor="end" font-family="Helvetica,Arial,sans-serif" font-size="12">3.0×</text>
+<line x1="95" y1="199.50" x2="1280" y2="199.50" stroke="#dddddd" stroke-width="1"/>
+<text x="83" y="204.50" text-anchor="end" font-family="Helvetica,Arial,sans-serif" font-size="12">3.5×</text>
+<line x1="95" y1="140.75" x2="1280" y2="140.75" stroke="#dddddd" stroke-width="1"/>
+<text x="83" y="145.75" text-anchor="end" font-family="Helvetica,Arial,sans-serif" font-size="12">4.0×</text>
+<line x1="95" y1="82.00" x2="1280" y2="82.00" stroke="#dddddd" stroke-width="1"/>
+<text x="83" y="87.00" text-anchor="end" font-family="Helvetica,Arial,sans-serif" font-size="12">4.5×</text>
+<line x1="819.17" y1="82" x2="819.17" y2="505" stroke="#555555" stroke-width="2" stroke-dasharray="7 6"/>
+<text x="827.17" y="100" font-family="Helvetica,Arial,sans-serif" font-size="12">build-regime boundary</text>
+<text x="827.17" y="117" font-family="Helvetica,Arial,sans-serif" font-size="11">v0.12: target-cpu=native, codegen-units=1, ThinLTO on both sides</text>
+<polyline points="95.00,114.38 226.67,212.67 358.33,235.43 490.00,439.01 621.67,464.61 753.33,472.82 885.00,441.52 1016.67,471.43 1148.33,458.62 1280.00,493.32" fill="none" stroke="black" stroke-width="3"/>
+<circle cx="95.00" cy="114.38" r="6" fill="black"/>
+<text x="95.00" y="102.38" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="12">4.224×</text>
+<text x="95.00" y="533" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="12" font-weight="bold">v0.3</text>
+<text x="95.00" y="551" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="10">initial</text>
+<circle cx="226.67" cy="212.67" r="6" fill="black"/>
+<text x="226.67" y="200.67" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="12">3.388×</text>
+<text x="226.67" y="533" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="12" font-weight="bold">v0.4</text>
+<text x="226.67" y="551" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="10">same field</text>
+<circle cx="358.33" cy="235.43" r="6" fill="black"/>
+<text x="358.33" y="223.43" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="12">3.194×</text>
+<text x="358.33" y="533" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="12" font-weight="bold">v0.5</text>
+<text x="358.33" y="551" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="10">in-place</text>
+<circle cx="490.00" cy="439.01" r="6" fill="black"/>
+<text x="490.00" y="427.01" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="12">1.462×</text>
+<text x="490.00" y="533" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="12" font-weight="bold">v0.6</text>
+<text x="490.00" y="551" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="10">bit-reversal</text>
+<circle cx="621.67" cy="464.61" r="6" fill="black"/>
+<text x="621.67" y="452.61" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="12">1.244×</text>
+<text x="621.67" y="533" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="12" font-weight="bold">v0.7</text>
+<text x="621.67" y="551" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="10">1M+2A</text>
+<circle cx="753.33" cy="472.82" r="6" fill="black"/>
+<text x="753.33" y="460.82" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="12">1.174×</text>
+<text x="753.33" y="533" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="12" font-weight="bold">v0.8</text>
+<text x="753.33" y="551" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="10">loop grouping</text>
+<circle cx="885.00" cy="441.52" r="6" fill="black"/>
+<text x="885.00" y="429.52" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="12">1.440×</text>
+<text x="885.00" y="533" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="12" font-weight="bold">v0.12</text>
+<text x="885.00" y="551" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="10">native codegen</text>
+<circle cx="1016.67" cy="471.43" r="6" fill="black"/>
+<text x="1016.67" y="459.43" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="12">1.186×</text>
+<text x="1016.67" y="533" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="12" font-weight="bold">v0.13</text>
+<text x="1016.67" y="551" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="10">true radix-8</text>
+<circle cx="1148.33" cy="458.62" r="6" fill="black"/>
+<text x="1148.33" y="446.62" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="12">1.295×</text>
+<text x="1148.33" y="533" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="12" font-weight="bold">v0.18</text>
+<text x="1148.33" y="551" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="10">raw NEON</text>
+<circle cx="1280.00" cy="493.32" r="6" fill="black"/>
+<text x="1280.00" y="481.32" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="12">0.999×</text>
+<text x="1280.00" y="533" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="12" font-weight="bold">v0.20</text>
+<text x="1280.00" y="551" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="10">fused tail</text>
+<text x="687.50" y="594" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="14">Verified optimization milestone</text>
+<text transform="translate(25 293.50) rotate(-90)" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="14">Kernel / Stwo time ratio</text>
+<text x="103" y="505.38" font-family="Helvetica,Arial,sans-serif" font-size="11">±5% parity band</text>
+<text x="1280" y="638" text-anchor="end" font-family="Helvetica,Arial,sans-serif" font-size="9">source: optimization-verified.csv SHA-256 b7adee0d10c1700fe1fbf578e6db5b36db5259f2c31512123edd7f376c1e4c44</text>
+</svg>
